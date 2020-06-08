@@ -1,0 +1,23 @@
+.header {
+  text-align: center;
+}
+.header h1 {
+  font-size: 200%;
+  color: #333;
+  margin-top: 30px;
+}
+.header p {
+  font-size: 14px;
+}
+.login-form-div{
+  margin-top: 20px;
+}
+.overflow-hidden{
+  overflow: hidden;
+}
+.display-none{
+	display: none !important;
+}
+#deptAddDlg div{
+	margin-top: 10px;
+}
